@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  JsonPlaceHolderApp
+
+  Created by Fernando Gomes on 24/03/2022.
+  
+*/
+
+//Main View Controller
+"mainView_title" = "Posts";
+"mainView_deleteAll" = "Delete All";
+"mainView_segment1" = "All";
+"mainView_segment2" = "Favorites";
+
+//Detail View Controller
+"detailView_title" = "Post";
+
+//No Internet Alert
+"noInternet_title" = " No Internet";
+"noInternet_description" = "You have not a connection to Internet. Try it later";
+
+// Delete All Alert
+"deleteAll_title" = "Delete All";
+"deleteAll_description" = "You are going to delete all Posts.";
+"deleteAll_cancel" = "Cancel";
+"deleteAll_delete" = "Delete";
+
+//Description Cell
+"description_title" = "Description";
+
+//User Cell
+"user_title" = "User";
+"name_label" = "Name";
+"phone_label" = "Phone";
+"email_label" = "Email";
+"web_label" = "Web";
+"commets_title" = "Comments";
+
